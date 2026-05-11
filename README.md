@@ -10,7 +10,7 @@ Debian on staabiilne  operatsioonsüsteem ja kiirem kui tavaline windows server
 Valisime staatilise IP et me saaksime serverile ligi ilma probleemita 
 
 ## Back up
-et failid ära ei kaoks on vaja mingit backup service 
+et backupida kasutame rsync ja cron service et ligisaada
 
 ## Fail jagamine 
 see on tähtis mängu stuudiole et failidele liigisaada ja muuta aktiivselt
