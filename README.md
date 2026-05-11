@@ -14,3 +14,9 @@ et backupida kasutame rsync ja cron service et ligisaada
 
 ## Fail jagamine 
 see on tähtis mängu stuudiole et failidele liigisaada ja muuta aktiivselt
+
+## VPN
+kasutame OPENVPN et töötajad saaksid failidele ligi läbi oma windwos ja linux aruvtite, plus openvpn pakkub tasuta teenust self kui self hostid
+
+## Active directory
+kasuatme active directory et teha vahet töötajatelt
