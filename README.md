@@ -9,14 +9,14 @@ On vaja vpn ja arctive directory et saada faili serverisse sisse
 ## Staatiline IP
 Valisime staatilise IP et me saaksime serverile ligi ilma probleemita 
 
-## Back up
+## Back up - rasmus
 et backupida kasutame rsync ja cron service et ligisaada
 
-## Fail jagamine 
+## Fail jagamine  - rasmus
 see on tähtis mängu stuudiole et failidele liigisaada ja muuta aktiivselt
 
-## VPN
+## VPN - maks
 kasutame OPENVPN et töötajad saaksid failidele ligi läbi oma windwos ja linux aruvtite, plus openvpn pakkub tasuta teenust self kui self hostid
 
-## Active directory
+## Active directory - joosep
 kasuatme active directory et teha vahet töötajatelt
