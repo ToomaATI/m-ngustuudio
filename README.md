@@ -3,8 +3,8 @@
 ## Operatsioonsüsteem - Debian 13
 Debian on staabiilne  operatsioonsüsteem ja kiirem kui tavaline windows server
 
-## Client
-
+## Töötaja
+On vaja vpn ja arctive directory et saada faili serverisse sisse
 
 ## Staatiline IP
 Valisime staatilise IP et me saaksime serverile ligi ilma probleemita 
