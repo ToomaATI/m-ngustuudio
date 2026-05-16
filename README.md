@@ -18,5 +18,3 @@ see on tähtis mängu stuudiole et failidele liigisaada ja muuta aktiivselt
 ## VPN - maks
 kasutame OPENVPN et töötajad saaksid failidele ligi läbi oma windwos ja linux aruvtite, plus openvpn pakkub tasuta teenust self kui self hostid
 
-## Active directory - joosep
-kasuatme active directory et teha vahet töötajatelt

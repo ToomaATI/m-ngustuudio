@@ -1,0 +1,1 @@
+Töötajad saavad ligi debian servelile läbi iga arvuti millel on interneti ühendus ja vpn teenusega ühendatud. faili server toimib nagu virtual disk. iga töötajal on oma konto ja fiali server teeb back up iga kord kui on muudatus tehtud ja paneb nimeks töötaja kes muutis faile ja kella aja
