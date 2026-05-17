@@ -16,5 +16,5 @@ Backup'i jaoks kasutame rsync ja cron service et ligisaada
 Faili jagamine on tähtis mängu stuudiole, et failidele liigisaada ja muuta aktiivselt
 
 ## VPN - maks
-Kasutame OPENVPN et töötajad saaksid failidele ligi läbi oma Windwos'i ja Linux aruvtite. Samuti OpenVPN pakkub tasuta teenust kui ise hostid
+Kasutame OpenVPN et töötajad saaksid failidele ligi läbi oma Windwos'i ja Linux aruvtite. Samuti OpenVPN pakkub tasuta teenust kui ise hostid
 
